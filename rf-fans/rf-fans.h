@@ -10,11 +10,14 @@
 #ifdef HAMPTONBAY
   #include "hamptonbay.h"
 #endif
+#ifdef HAMPTONBAY2
+  #include "hamptonbay2.h"
+#endif
 #ifdef HAMPTONBAY3
   #include "hamptonbay3.h"
 #endif
-#ifdef HAMPTONBAY2
-  #include "hamptonbay2.h"
+#ifdef HAMPTONBAY4
+  #include "hamptonbay4.h"
 #endif
 #ifdef FANIMATION
   #include "fanimation.h"
